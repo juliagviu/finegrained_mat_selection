@@ -22,7 +22,7 @@ Code coming soon!
 <img src='imgs/dumas_dataset_teaser.png'/>
 
 ## Download
-You can download the public release of the **DuMaS** dataset from the following links
+You can download the dataset from the following links:
 * [Training data](https://prafulls.s3.us-west-2.amazonaws.com/public_read/DuMaS/DuMaS_train.zip) [~62GB]
 * [Test data](https://prafulls.s3.us-west-2.amazonaws.com/public_read/DuMaS/DuMaS_test.zip) [~5GB]
 

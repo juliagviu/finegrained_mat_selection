@@ -23,8 +23,9 @@ Code coming soon!
 
 ## Download
 You can download the public release of the **DuMaS** dataset from the following links
-* Training data [~62GB]
-* Test data [~5GB]
+* [Training data](https://prafulls.s3.us-west-2.amazonaws.com/public_read/DuMaS/DuMaS_train.zip) [~62GB]
+* [Test data](https://prafulls.s3.us-west-2.amazonaws.com/public_read/DuMaS/DuMaS_test.zip) [~5GB]
+
 Each link will download a zip file containing all the train/test images as exr files.
 
 ## File Format
